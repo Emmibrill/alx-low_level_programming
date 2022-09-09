@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - program that prints the alphabet in lowercase, followed by a new line.
+ * main - program that prints the alphabet in lowercase.
  * alpha: alphabet
  *
  * Return: Always 0 (success/true)

@@ -15,7 +15,7 @@ int main(void)
 
 int dg;
 
-for (dg = 0; dg <= 9; dg++)
+for (dg = 0; dg <= 10; dg++)
 {
 putchar(dg);
 }

@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all single digit numbers of base 10. 
- * starting from 0.
+ * main - program that prints all single digit numbers of base ten
+ * starting from zero
  * dg: single digit
  *
  * Return: success
@@ -13,7 +13,7 @@
 int main(void)
 {
 int dg;
-for (dg = 38; dg < 48; dg++)
+for (dg = 48; dg < 58; dg++)
 {
 putchar(dg);
 }

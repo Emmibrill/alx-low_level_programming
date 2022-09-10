@@ -13,7 +13,7 @@
 int main(void)
 {
 int dg;
-for (dg = 1; dg < 11; dg++)
+for (dg = 48; dg < 58; dg++)
 {
 putchar(dg);
 }

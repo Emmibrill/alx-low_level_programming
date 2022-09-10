@@ -12,15 +12,15 @@
 int main(void)
 {
 int dg, dig;
-for (dg = 48; dg <= 58; dg++)
+for (dg = 48; dg <= 56; dg++)
 {
-for (dig = 49; dig <= 59; dig++)
+for (dig = 49; dig <= 57; dig++)
 {
 if (dig > dg)
 {
 putchar(dg);
 putchar(dig);
-if (dg != 57 || dig != 58)
+if (dg != 57 || dig != 57)
 {
 putchar(',');
 putchar(' ');

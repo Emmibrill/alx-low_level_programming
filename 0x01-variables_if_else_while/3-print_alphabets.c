@@ -6,7 +6,7 @@
  * main - entry point
  * alpha: alphabet
  *
- * return: success
+ * Return: success
  */
 int main(void)
 {

@@ -6,7 +6,7 @@
  *
  * @n: function's arguement
  *
- * Return n
+ * Return: n
  */
 
 int _abs(int n)

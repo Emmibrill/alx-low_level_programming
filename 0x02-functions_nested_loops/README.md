@@ -10,4 +10,6 @@ File 4-isalpha.c: function that checks for alphabetic character.
 
 File 5-sign.c:function that prints the sign of a number.
 
+File 6-abs.c:function that computes the absolute value of an integer.
+
 

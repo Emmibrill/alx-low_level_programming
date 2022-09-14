@@ -4,4 +4,6 @@ File 1-alphabet.c:  function that prints the alphabet, in lowercase, followed by
 
 File 2-print_alphabet_x10.c: function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
+File 3-islower.c: function that checks for lowercase character.
+
 

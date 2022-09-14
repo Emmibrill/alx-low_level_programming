@@ -3,13 +3,14 @@
 /**
  * _islower - function that checks for lowercase character
  *
- * alp: alphabet
+ * c: alphabet
  * Return true
  */
 
 int _islower(int c)
 {
-if (alp <= 'a' && alp <= 'z')
+
+if (c <= 'a' && c <= 'z')
 {
 return (1);
 }

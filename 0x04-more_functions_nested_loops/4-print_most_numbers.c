@@ -6,7 +6,7 @@
  * but does not print number 2 and 4.
  *
  * i: index value
- *Return: success
+ * Return: success
  */
 
 void print_most_numbers(void)

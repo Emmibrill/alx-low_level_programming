@@ -10,31 +10,32 @@
 
 int main(void)
 {
+
 int i;
+
 for (i = 1; i < = 100; i++)
 {
 if (i % 3 == 0 && i % 5 == 0)
 {
-printf(" Fizz");
+_putchar("Fizz");
 }
 else if (i % 5 == 0 && i % 3 != 0)
 {
-printf(" Buzzz");
+_putchar("Buzz");
 }
 else if (i % 3 == 0 && i % 5 == 0)
 {
-printf(" FizzBuzz");
+_putchar("FizzBuzz");
 }
 else if (i == 1)
 {
-printf("%d", i);
+_putchar("%d", i);
 }
 else
 {
-printf(" %d", i);
+_putchar(" %d", i);
 }
 }
-printf("\n");
-
+_putchar("\n");
 return (0);
 }

@@ -16,4 +16,8 @@ File 7-print_diagonal.c: function that draws a diagonal line on the terminal.
 
 File 8-print_square.c: function that prints a square, followed by a new line.
 
+File 9-fizz_buzz.c:  program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three printFizz instead of the number and for the multiples of five print Buzz.
+
+
+
 

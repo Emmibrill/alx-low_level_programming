@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** print_linev - function that draws a straight line in the terminal.
+/** 
+ * print_linev - function that draws a straight line in the terminal.
  *
  * @n: n is the number of times the character _ should be printed
  */

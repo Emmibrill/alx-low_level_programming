@@ -14,7 +14,7 @@ int i, j, length;
 
 while (i = 0; s[i] != '\0';)
 {
-i++
+i++;
 }
 
 length = i;

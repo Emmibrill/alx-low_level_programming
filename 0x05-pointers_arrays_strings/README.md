@@ -4,4 +4,5 @@ File 1-swap.c: function that swaps the values of two integers.
 
 File 2-strlen.c: function that returns the length of a string.
 
+File 3-puts.c:  function that prints a string, followed by a new line, to stdout.
 

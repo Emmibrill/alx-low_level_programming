@@ -12,4 +12,6 @@ File 5-rev_string.c: function that reverses a string.
 
 File 6-puts2.c: function that prints every other character of a string, starting with the first character, followed by a new line.
 
+File 7-puts_half.c: function that prints half of a string, followed by a new line.
+
 

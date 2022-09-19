@@ -16,18 +16,18 @@ int i, length_one, length;
 length_one = 0;
 length = 0;
 
-while (s[lengh] != '\0')
+while (s[length] != '\0')
 {
 length++;
 }
 
 length_one = lengh - 1;
-for (i = 0; i < lenth / 2; i++)
+for (i = 0; i < length / 2; i++)
 
 {
 
 ctnr = s[i];
 s[i] = s[length_one];
-s[lengh_one--] = ctnr;
+s[length_one--] = ctnr;
 
 }

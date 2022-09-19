@@ -21,7 +21,7 @@ while (s[length] != '\0')
 length++;
 }
 
-length_one = lengh - 1;
+length_one = length - 1;
 for (i = 0; i < length / 2; i++)
 
 {

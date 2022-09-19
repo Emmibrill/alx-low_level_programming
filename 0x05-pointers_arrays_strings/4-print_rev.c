@@ -13,14 +13,13 @@ int i, j, length;
 
 for (i = 0; s[i] != '\0'; i++)
 {
-	length = i;
-	for (j = length - 1; j >= 0; j--)
-	{
-		_putchar(s[j]);
-	}
+length = i;
+for (j = length - 1; j >= 0; j--)
+{
+_putchar(s[j]);
+}	}
 
-	_putchar('\n');
+_putchar('\n');
 
-}
 }
 
